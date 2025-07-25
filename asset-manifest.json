@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.4aefffca.css",
-    "main.js": "/static/js/main.beb300bb.js",
-    "index.html": "/index.html",
-    "main.4aefffca.css.map": "/static/css/main.4aefffca.css.map",
-    "main.beb300bb.js.map": "/static/js/main.beb300bb.js.map"
+    "main.css": "/zxcmimis.github.io/react-home-4/static/css/main.4aefffca.css",
+    "main.js": "/zxcmimis.github.io/react-home-4/static/js/main.beb300bb.js",
+    "index.html": "/zxcmimis.github.io/react-home-4/index.html",
+    "main.4aefffca.css.map": "/zxcmimis.github.io/react-home-4/static/css/main.4aefffca.css.map",
+    "main.beb300bb.js.map": "/zxcmimis.github.io/react-home-4/static/js/main.beb300bb.js.map"
   },
   "entrypoints": [
     "static/css/main.4aefffca.css",
