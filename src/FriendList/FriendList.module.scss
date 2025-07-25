@@ -1,0 +1,31 @@
+.friendsList {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+}
+.item {
+    padding: 15px;
+    background-color: #fff;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+    width: 300px;
+    display: flex;
+    align-items: center;
+    gap: 10px 
+}
+.status {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+.avatar {
+    background-color: #0048ff37;
+    border-radius: 30px;
+    padding: 3px;
+}
+p{
+    margin: 0;
+    font-size: 30px;
+}
